@@ -1,0 +1,7 @@
+numpy==1.26.2
+accelerate
+transformers
+flask
+pillow
+modelscope
+qwen-vl-utils[decord]
